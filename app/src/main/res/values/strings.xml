@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Detail Game</string>
+    <string-array name="data_name">
+        <item>elden_ring</item>
+        <item>elden_ring2</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/elden_ring</item>
+        <item>@drawable/elden_ring2</item>
+    </integer-array>
+</resources>
